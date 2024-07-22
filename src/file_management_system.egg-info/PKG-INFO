@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: file_management_system
+Version: 1.0.0
+Summary: A Python-based CLI application for file management with Admin and User roles
+Author: Hammad
+Author-email: hammadzahid254@gmail.com
+Requires-Dist: mysql-connector-python
+Requires-Dist: cryptography
+Requires-Dist: bcrypt
